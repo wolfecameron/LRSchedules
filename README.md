@@ -1,6 +1,6 @@
 # The Best Learning Rate Schedules
 
-[![blogpost](https://img.shields.io/badge/Blog%20Post-substack-2596be)](cameronrwolfe.me)
+[![blogpost](https://img.shields.io/badge/Blog%20Post-substack-2596be)](https://cameronrwolfe.substack.com/p/the-best-learning-rate-schedules)
 &nbsp;
 
 ![My Image](./figs/lr_cover.png)
