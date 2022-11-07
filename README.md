@@ -2,7 +2,7 @@
 ### Practical and powerful tips for setting the learning rate...
 
 
-[![blogpost](https://img.shields.io/badge/Blog%20Post-medium-2596be)](cameronrwolfe.me)
+[![blogpost](https://img.shields.io/badge/Blog%20Post-substack-2596be)](cameronrwolfe.me)
 &nbsp;
 
 ![My Image](./figs/lr_cover.png)
