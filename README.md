@@ -1,13 +1,12 @@
 # The Best Learning Rate Schedules
-### Practical and powerful tips for setting the learning rate...
-
 
 [![blogpost](https://img.shields.io/badge/Blog%20Post-substack-2596be)](cameronrwolfe.me)
 &nbsp;
 
 ![My Image](./figs/lr_cover.png)
 
-This is a basic code respository to support an overview that I wrote regarding
+This is a basic code respository to support an overview that I wrote in my 
+Deep (Learning) Focus newsletter regarding
 common learning rate schedules that are used for training neural networks.
 This code can be used to reproduce:
 1. Triangular/Cyclical Learning Rates
